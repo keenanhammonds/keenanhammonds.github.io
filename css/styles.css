@@ -49,6 +49,12 @@ main > .intro {
 	font-weight: 600;
 }
 
+main > .brand-statement{
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 1.75em;
+	font-weight: 400;
+} 
+
 main > .tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
@@ -91,3 +97,10 @@ a{
 	font-size: 29px;
 }
 
+.projects{
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 1.75em;
+	font-weight: 400;
+	color: white;
+	height: 30px;
+}
